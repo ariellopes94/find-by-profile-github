@@ -10,7 +10,7 @@ Find By Profile Github é uma aplicação web construída para buscar por nome p
 A aplicação consiste em uma pesquisa web que consome a API do Github.
 
 ## Layout
-![Web 1](https://p95.f4.n0.cdn.getcloudapp.com/items/bLu0b4xP/73d841c2-8499-434b-90d9-2d09286b6f66.gif?source=viewer&v=ab44369d9355aa0b740e4e97743591bc)
+![Web 1](https://raw.githubusercontent.com/ariellopes94/imagens-para-readme/master/Find%20By%20Profile%20Github/gif%20github.gif)
 
 # Tecnologias utilizadas
 
